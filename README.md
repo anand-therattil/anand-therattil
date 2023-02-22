@@ -1,5 +1,5 @@
 # 💫 About Me:
-Backend developer for websites and passionate about machine learning <br>Interested in collaborating on machine learning projects<br>Recently started learning machine learning<br>Fast but lazy (I like to automate tasks to make things more efficient!)
+Backend developer for websites and passionate about machine learning <br>Interested in collaborating on machine learning projects<br>Recently started learning machine learning<br>Fast but lazy (I like to automate tasks to make things more efficient!)<br> My First Gold medalist in Masters Degree
 
 
 ## 🌐 Socials:
