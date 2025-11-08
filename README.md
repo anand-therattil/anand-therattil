@@ -1,5 +1,5 @@
 # 💫 About Me:
-Backend developer for websites and passionate about machine learning <br>Interested in collaborating on machine learning projects<br>Recently started learning machine learning<br>Fast but lazy (I like to automate tasks to make things more efficient!)<br> My First Gold medalist in Masters Degree
+Working on the Rising the bot to the human level! working on the Voice Agents along with few of my own projects 
 
 
 ## 🌐 Socials:
